@@ -27,3 +27,20 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+---
+
+这里是我的第一篇 Hugo 博客文章！
+
+## 介绍
+Hugo 是一个非常快速的静态网站生成器，适用于博客、文档网站等。
+
+### 代码示例
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, Hugo!");
+    }
+}
+```
+### 嵌入示例
+<iframe src="https://www.baidu.com/" width="100%" height="600px" frameborder="0"></iframe>
