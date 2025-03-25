@@ -24,6 +24,9 @@ bio:
 interests:
 - Interest 1
 - Interest 2
+study:
+- interest
+
 
 education:
   courses:
