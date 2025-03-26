@@ -65,6 +65,6 @@ security:
 sitemap:
   _merge: deep
 
-params:
-  assets:
-    disableFingerprinting: true
+#params:
+  #assets:
+    #disableFingerprinting: true
